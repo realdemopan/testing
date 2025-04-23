@@ -1,6 +1,6 @@
 {
   "name": "Eaglercraft 1.8.8",
-  "short_name": "Minecraft 1.8 Online",
+  "short_name": "Minecraft 1.8",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
